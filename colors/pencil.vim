@@ -18,7 +18,7 @@
 " Green           #30C798
 " Blue2           #1DAEE4
 " gray            #999999
-" Red             #E32791
+" Red             #DC577E
 " UnfocusedText   #B8B8B8
 " MenuSelected    #2C81FB
 " MenuUnSelected  #545454
@@ -84,7 +84,7 @@ endif
 
 let s:pink            = { "gui": "#fb007a", "cterm": "9"   }
 let s:dark_red        = { "gui": "#C30771", "cterm": "1"   }
-let s:light_red       = { "gui": "#E32791", "cterm": "1"   }
+let s:light_red       = { "gui": "#DC577E", "cterm": "1"   }
 let s:orange          = { "gui": "#D75F5F", "cterm": "167" }
 
 let s:darker_blue     = { "gui": "#005F87", "cterm": "18"  }
